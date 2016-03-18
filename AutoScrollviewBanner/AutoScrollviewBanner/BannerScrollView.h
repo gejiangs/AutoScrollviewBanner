@@ -17,9 +17,6 @@ typedef NS_ENUM(NSInteger){
 
 typedef void(^ClickWithBlock)(NSInteger index);
 
-@interface BannerScroll : UIScrollView
-
-@end
 
 @interface BannerScrollView : UIView
 

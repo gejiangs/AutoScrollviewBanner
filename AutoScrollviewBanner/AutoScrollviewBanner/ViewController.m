@@ -40,6 +40,21 @@
         make.top.left.right.offset(0);
         make.height.equalTo(_bannerView.width).multipliedBy(260/425.f);
     }];
+    
+    
+    
+    BannerScrollView *banner2 = [[BannerScrollView alloc] initWithImageNames:@[@"image1", @"image2"] autoTimerInterval:2 clickBlock:^(NSInteger index) {
+        
+    }];
+    banner2.pageAlign = BannerPageAlignRight;
+    banner2.pageIndicatorTintColor = [UIColor grayColor];
+    banner2.currentPageIndicatorTintColor = [UIColor redColor];
+    [self.view addSubview:banner2];
+    [banner2 makeConstraints:^(MASConstraintMaker *make) {
+        make.left.right.offset(0);
+        make.top.equalTo(self.bannerView.bottom).offset(50);
+        make.height.equalTo(banner2.width).multipliedBy(362/665.f);
+    }];
 }
 
 -(void)rightClicked:(id)sender

@@ -1,24 +1,32 @@
 {
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4BD9ECB7B955182F0BEE2C0E74EC9F603E8999DB",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
-    "d6da2906-b76d-4016-bf36-d3172097a6a0++2519" : {
+    "d6da2906-b76d-4016-bf36-d3172097a6a0++9213" : {
 
     }
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "d6da2906-b76d-4016-bf36-d3172097a6a0++2519" : 0
+    "d6da2906-b76d-4016-bf36-d3172097a6a0++9213" : 0,
+    "4BD9ECB7B955182F0BEE2C0E74EC9F603E8999DB" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5A1F8428-F3A6-481C-A083-00B7E72C0C10",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "d6da2906-b76d-4016-bf36-d3172097a6a0++2519" : ""
+    "d6da2906-b76d-4016-bf36-d3172097a6a0++9213" : "",
+    "4BD9ECB7B955182F0BEE2C0E74EC9F603E8999DB" : "AutoScrollviewBanner\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "AutoScrollviewBanner",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AutoScrollviewBanner\/AutoScrollviewBanner.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
     {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:gejiangs\/AutoScrollviewBanner.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4BD9ECB7B955182F0BEE2C0E74EC9F603E8999DB"
+    },
+    {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "svn:\/\/192.168.1.234",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d6da2906-b76d-4016-bf36-d3172097a6a0++2519"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d6da2906-b76d-4016-bf36-d3172097a6a0++9213"
     }
   ]
 }
